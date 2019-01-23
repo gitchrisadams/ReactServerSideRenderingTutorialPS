@@ -26,3 +26,6 @@ visit:
 ```
 http://localhost:3000
 ```
+
+## Running json server to simulate a production rest server locally:
+npm run json-server
